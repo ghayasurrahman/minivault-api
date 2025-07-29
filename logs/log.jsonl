@@ -1,0 +1,13 @@
+{"timestamp":"2025-07-29T05:42:21.803Z","level":"warn","message":"Prompt missing in request"}
+{"timestamp":"2025-07-29T09:02:16.634Z","level":"warn","message":"Prompt missing in request"}
+{"0":"o","1":"k","2":" ","3":"w","4":"h","5":"a","6":"t","7":" ","8":"e","9":"l","10":"s","11":"e","12":" ","13":"y","14":"o","15":"u","16":" ","17":"c","18":"a","19":"n","20":" ","21":"d","22":"o","timestamp":"2025-07-29T09:02:24.744Z","level":"info","message":"Prompt:"}
+{"timestamp":"2025-07-29T09:02:24.745Z","level":"info","message":"Spawning Ollama model llama2."}
+{"timestamp":"2025-07-29T09:02:25.121Z","level":"error","message":"Ollama exited with code 1"}
+{"0":"o","1":"k","2":" ","3":"w","4":"h","5":"a","6":"t","7":" ","8":"e","9":"l","10":"s","11":"e","12":" ","13":"y","14":"o","15":"u","16":" ","17":"c","18":"a","19":"n","20":" ","21":"d","22":"o","timestamp":"2025-07-29T09:04:09.125Z","level":"info","message":"Prompt:"}
+{"timestamp":"2025-07-29T09:04:09.128Z","level":"info","message":"Spawning Ollama model llama2."}
+{"timestamp":"2025-07-29T09:06:15.967Z","level":"info","message":"llama2 responded"}
+{"timestamp":"2025-07-29T09:07:59.404Z","level":"info","message":"Prompt: ok what else you can do"}
+{"timestamp":"2025-07-29T09:07:59.417Z","level":"info","message":"Spawning Ollama model llama2."}
+{"timestamp":"2025-07-29T09:19:34.080Z","level":"info","message":"Prompt: Tell me a joke."}
+{"timestamp":"2025-07-29T09:19:34.081Z","level":"info","message":"Spawning Ollama model llama2."}
+{"timestamp":"2025-07-29T09:20:52.336Z","level":"info","message":"llama2 responded"}
